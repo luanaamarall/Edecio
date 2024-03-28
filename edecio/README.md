@@ -1,2 +1,0 @@
-# Edecio
- Lógica da Programação
