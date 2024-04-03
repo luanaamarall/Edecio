@@ -10,3 +10,4 @@ if(preco <= 100){
 } else{
     console.log(`Pode pagar em 3x de ${parc}`)
 }
+
